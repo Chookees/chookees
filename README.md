@@ -3,5 +3,5 @@
 
 Find me on [LinkedIn](https://www.linkedin.com/in/artur-bobb-4b333b266/)
 - 🔭 I’m currently working on ... ALog - lightweight modern .Net8 Logger and ECU/TCU Tuning.
-- 🌱 I’m currently learning ... New .Net Features and C++ and ECU/TCU Tweaking as much as i can.
+- 🌱 I’m currently learning ... New .Net Features, C++, Unity and ECU/TCU Tweaking as much as i can.
 - 💬 Ask me about ... anything.
