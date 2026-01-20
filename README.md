@@ -2,7 +2,7 @@
 ![Chookees's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chookees&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
 
 Find me on [LinkedIn](https://www.linkedin.com/in/artur-bobb-4b333b266/)
-- 🔭 I develop simulations with ModelDesk (dSPACE) to model, test, and validate vehicle behavior in various scenarios.
+- 🔭 I develop simulations to model, test, and validate vehicle behavior in various scenarios @dSPACE.
 - 🌱 I’m currently learning ... as much as possible.
 - 💬 Ask me about ... anything.
 - ☕ You can also [buy me a coffee](https://buymeacoffee.com/chookees)
