@@ -1,5 +1,5 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Chookees&include_all_commits=true&theme=vision-friendly-dark)](https://github-stats-extended.vercel.app/api?username=Chookees&include_all_commits=true&theme=vision-friendly-dark)
-[!Most used Languages in my Repos](https://github-stats-extended.vercel.app/api/top-langs?username=Chookees&langs_count=6&theme=vision-friendly-dark)
+![Most used Languages in my Repos](https://github-stats-extended.vercel.app/api/top-langs?username=Chookees&langs_count=6&theme=vision-friendly-dark)
 
 Find me on [LinkedIn](https://www.linkedin.com/in/artur-bobb-4b333b266/)
 - 🔭 I develop simulations to model, test, and validate vehicle behavior in various scenarios @dSPACE.
